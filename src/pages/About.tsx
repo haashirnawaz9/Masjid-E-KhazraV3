@@ -8,12 +8,12 @@ const About = () => {
         <div className="max-w-4xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <img 
-              src="https://images.pexels.com/photos/1537071/pexels-photo-1537071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+              src="/musjid-front.jpeg" 
               alt="Masjid-e-Khazra Front View" 
               className="rounded-lg shadow-md w-full h-[300px] object-cover"
             />
             <img 
-              src="https://images.pexels.com/photos/6185611/pexels-photo-6185611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+              src="/musjid-inside.png" 
               alt="Masjid-e-Khazra Interior" 
               className="rounded-lg shadow-md w-full h-[300px] object-cover"
             />

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Heart } from 'lucide-react';
 
+
 const Donate = () => {
   const zellePayment = () => {
     window.location.href = 'https://www.zellepay.com';

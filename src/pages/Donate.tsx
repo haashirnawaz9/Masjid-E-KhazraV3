@@ -6,6 +6,7 @@ const Donate = () => {
     window.location.href = 'https://www.zellepay.com';
   };
 
+  
   const stripePayment = () => {
     //window.location.href = 'https://buy.stripe.com/test_3cs8xwdI18b04Fy3cc';
   };

@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import PrayerTimes from './pages/PrayerTimes';
 import About from './pages/About';
 import Donate from './pages/Donate';
-
+ 
 function App() {
   return (
     <Router>

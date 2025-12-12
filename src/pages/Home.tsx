@@ -9,7 +9,7 @@ const Home = () => {
     animate: { opacity: 1, y: 0 },
     transition: { duration: 0.6 }
   };
-
+  
   return (
     <motion.div
       initial={{ opacity: 0 }}

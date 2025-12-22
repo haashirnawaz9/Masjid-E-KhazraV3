@@ -9,7 +9,7 @@ const Donate = () => {
   const stripePayment = () => {
     //window.location.href = 'https://buy.stripe.com/test_3cs8xwdI18b04Fy3cc';
   };
-
+  
   return (
     <div className="min-h-screen bg-gray-50 py-12 pt-24">
       <div className="container mx-auto px-4">
